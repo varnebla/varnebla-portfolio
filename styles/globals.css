@@ -12,6 +12,8 @@ body {
   font-family: Open Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
     Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   height: 100%;
+  color: #eaf2ef;
+  background: #0d090a;
 }
 
 #__next {
@@ -29,16 +31,6 @@ a:hover {
 
 * {
   box-sizing: border-box;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: #eaf2ef;
-    background: #0d090a;
-  }
 }
 
 p {
